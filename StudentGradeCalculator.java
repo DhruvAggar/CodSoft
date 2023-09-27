@@ -1,7 +1,6 @@
 
 import java.util.Scanner;
 
-import javax.xml.transform.Source;
 
 public class StudentGradeCalculator {
     public static void main(String[] args) {
